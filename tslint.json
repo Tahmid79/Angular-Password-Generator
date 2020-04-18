@@ -127,7 +127,9 @@
         "check-separator",
         "check-type",
         "check-typecast"
-      ]
+      ] ,
+      "import-destructuring-spacing": true,
+      "import-spacing": true
     },
     "no-conflicting-lifecycle": true,
     "no-host-metadata-property": true,
